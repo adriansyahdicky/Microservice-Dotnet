@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HgEf4jAEKOpshKfXvoeIdU+FjX8ZUoMOOWNIg9rgzk0MTw/HZmf/9L7SpSUVDDDlHRg2fZQLqGm33zROv1LCcg==",
+  "success": true,
+  "projectFilePath": "E:\\LatihanDicky\\EventBus\\MicroservicesEventBus\\EventBus\\EventBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dwi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

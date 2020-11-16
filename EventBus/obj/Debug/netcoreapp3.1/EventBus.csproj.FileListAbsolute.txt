@@ -1,0 +1,8 @@
+E:\LatihanDicky\EventBus\MicroservicesEventBus\EventBus\bin\Debug\netcoreapp3.1\EventBus.deps.json
+E:\LatihanDicky\EventBus\MicroservicesEventBus\EventBus\bin\Debug\netcoreapp3.1\EventBus.dll
+E:\LatihanDicky\EventBus\MicroservicesEventBus\EventBus\bin\Debug\netcoreapp3.1\EventBus.pdb
+E:\LatihanDicky\EventBus\MicroservicesEventBus\EventBus\obj\Debug\netcoreapp3.1\EventBus.AssemblyInfoInputs.cache
+E:\LatihanDicky\EventBus\MicroservicesEventBus\EventBus\obj\Debug\netcoreapp3.1\EventBus.AssemblyInfo.cs
+E:\LatihanDicky\EventBus\MicroservicesEventBus\EventBus\obj\Debug\netcoreapp3.1\EventBus.csproj.CoreCompileInputs.cache
+E:\LatihanDicky\EventBus\MicroservicesEventBus\EventBus\obj\Debug\netcoreapp3.1\EventBus.dll
+E:\LatihanDicky\EventBus\MicroservicesEventBus\EventBus\obj\Debug\netcoreapp3.1\EventBus.pdb
